@@ -49,7 +49,7 @@ https://www.cambridge.org/core/services/aop-cambridge-core/content/view/8404682E
     The alignment of training programs with these recent technological developments can only be achieved with (1) systems of curriculum scaffolding for progressive skills development; (2) the production of high-quality, routinely updated resources and case studies detailing methods, theory, and results; (3) training for instructors and professionals; and (4) enhanced communication and collaboration between diverse avenues and roles pursued by archaeologists today.
     As a complex ecosystem, archaeology is a tangled web of researchers, instructors, students, and now, more than ever, information management teams, governments, and community stakeholders; our strength will come from collectively challenging, engaging, integrating, and collaborating on building foundational skills, method, and theory for the future of reuse in archaeology.
     
-4. “What Gets Counted Counts”
+“What Gets Counted Counts”
 https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/2
 
     pay attention to: how does system design affect knowledge creation
@@ -69,3 +69,4 @@ https://data-feminism.mitpress.mit.edu/pub/h1w0nbqp/release/2
     There is a second tension that the CCP navigates in an exemplary fashion, which has to do with the content of the corpus itself. Because it is derived from the conventions’ official meeting minutes, it records only the “official” participants in the conventions and the discussions they initiated. These participants were almost exclusively men. To address this disparity, the CCP team asks its teaching partners to sign a Memo of Understanding (MoU) before introducing students to the project. The MoU requests that all instructors introduce a woman involved in the conventions, such as a wife, daughter, sister, or fellow church member, alongside every male delegate who is named (figure 4.9). From this work of recovery, the CCP is creating a second dataset of the women’s names—those who would otherwise go uncounted and therefore unrecognized for their work. They are using data collection to make these contributions count.
     An intersectional feminist approach to counting insists that we examine and, if necessary, rethink the assumptions and beliefs behind our classification infrastructure, as well as consistently probe who is doing the counting and whose interests are served. Counting and measuring do not always have to be tools of oppression. We can also use them to hold power accountable, to reclaim overlooked histories, and to build collectivity and solidarity. When we count within our own communities, with consideration and care, we can work to rebalance unequal distributions of power.
 
+.
